@@ -2,7 +2,7 @@
 
 Esse desafio consiste em desenvolver as habilidades em  Business Intelligence e colocar em prática todo o conhecimento obtido no PowerBI. O desafio terá 4 semanas divididos em 3 diferentes projetos.
  
- * Semana 1: [Alura Log](https://app.powerbi.com/groups/me/reports/3880e7b9-48a3-4eb6-a485-3ba7a5f59a76?ctid=385682ec-c135-4083-8665-894ae6b1014a&pbi_source=linkShare)
+ * Semana 1: [Alura Log]
  * Semana 2: Em breve
  * Semana 3: Em breve
 
